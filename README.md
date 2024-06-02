@@ -17,3 +17,10 @@ Explanation:
 ```
 roslaunch graph_planner graph_planner.launch
 ```
+
+### Topic
+
+- /graph_planner/path/global_path : The results of graph planning.
+- /graph_planner/marker/nodes_text : ID of each node
+- /graph_planner/marker/edges : Edges of graph
+
