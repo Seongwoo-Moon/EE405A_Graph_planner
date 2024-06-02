@@ -19,6 +19,7 @@ roslaunch graph_planner graph_planner.launch
 ```
 
 ### Topic
+In Rviz, you can add this topic.
 
 - /graph_planner/path/global_path : The results of graph planning.
 - /graph_planner/marker/nodes_text : ID of each node
